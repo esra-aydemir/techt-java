@@ -1,4 +1,4 @@
-package helpers;
+package org.techt.helpers;
 
 public enum Operation {
     ADD(1),

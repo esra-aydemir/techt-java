@@ -1,7 +1,7 @@
-import model.InventoryItem;
+import org.techt.model.InventoryItem;
 import org.junit.Assert;
 import org.junit.Test;
-import service.InventoryService;
+import org.techt.service.InventoryService;
 
 import java.util.List;
 import java.util.Optional;

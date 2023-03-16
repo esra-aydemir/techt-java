@@ -1,9 +1,8 @@
-package service;
+package org.techt.service;
 
-import model.Inventory;
-import model.InventoryItem;
+import org.techt.model.Inventory;
+import org.techt.model.InventoryItem;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 

@@ -1,11 +1,9 @@
 package org.techt;
 
-import helpers.Operation;
-import model.InventoryItem;
-import service.InventoryService;
+import org.techt.helpers.Operation;
+import org.techt.model.InventoryItem;
+import org.techt.service.InventoryService;
 
-import java.text.ParseException;
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {

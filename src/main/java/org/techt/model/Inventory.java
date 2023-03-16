@@ -1,4 +1,4 @@
-package model;
+package org.techt.model;
 
 import java.util.HashMap;
 
